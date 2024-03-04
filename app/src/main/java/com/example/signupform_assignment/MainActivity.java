@@ -99,14 +99,5 @@ public class MainActivity extends AppCompatActivity {
       });
     }
 
-    private void clearFields() {
 
-
-//        emailEditText.setText("");
-//        passwordEditText.setText("");
-//        confirmPasswordEditText.setText("");
-//        maleRadioButton.setChecked(false);
-//        femaleRadioButton.setChecked(false);
-//        termsCheckBox.setChecked(false);
-    }
 }

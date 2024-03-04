@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:backgroundTintMode="src_in"
     android:orientation="vertical"
-    android:paddingHorizontal="25px"
+    android:paddingHorizontal="15px"
     tools:context=".MainActivity">
 
     <TextView
@@ -29,6 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Enter Name :"
             android:textSize="16sp" />
 
@@ -51,6 +52,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="e-Mail:" />
 
         <EditText
@@ -72,6 +74,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Password:" />
 
         <EditText
@@ -94,6 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Confirm Password:" />
 
         <EditText
@@ -116,6 +120,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Gender :" />
 
         <RadioGroup
@@ -185,6 +190,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Date Of Birth:" />
 
         <EditText
@@ -193,6 +199,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
+            android:hint="DD/MM/YY"
             android:inputType="date" />
     </LinearLayout>
 
@@ -206,6 +213,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="City :" />
 
         <EditText
@@ -227,6 +235,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:width="400px"
             android:text="Country :" />
 
         <EditText
